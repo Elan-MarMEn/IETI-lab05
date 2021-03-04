@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment
 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://ietilab3alanmarin.herokuapp.com/)
-
 [![Deploy to Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png?hl=es)](https://taks-planner-app-64c87.web.app/)
 
 ## Credentials
