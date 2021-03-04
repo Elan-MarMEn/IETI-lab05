@@ -14,6 +14,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 >password: koala
 
+## Getting Started
+
+> git clone https://github.com/Elan-MarMEn/IETI-lab05.git
+
 ## Available Scripts
 
 In the project directory, you can run:
